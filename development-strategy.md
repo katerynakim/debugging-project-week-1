@@ -128,7 +128,7 @@ __full user story description__
 *assigned to Ismail*
 *reviewed by Kateryna*
 
-- developed on a branch called `intro`
+- developed on a branch called `i-box`
   
 
 ### HTML
