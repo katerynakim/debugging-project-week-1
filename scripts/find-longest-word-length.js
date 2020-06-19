@@ -3,7 +3,8 @@
 console.log('-- loading: findLongestWordLength');
 
 
-function findLongestWordLength() { }
+function findLongestWordLength(str) { let sortedWords = str.split(' ').sort((a, b) => b.length - a.length)
+return sortedWords[0].length}
 
 
 {
@@ -41,12 +42,15 @@ function findLongestWordLengthHandler() {
   debugger;
 
   // read user input
+  const sentence = prompt("Please enter some text");
+  const str = String(sentence);
 
   // core logic
   const result = findLongestWordLength(str);
 
   // display for use
+  alert(`The longest word has ${result} letters`);
 
   // log for developers
+  console.log(result);
 }
-
