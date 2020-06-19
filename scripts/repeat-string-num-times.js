@@ -66,9 +66,9 @@ function repeatStringNumTimesHandler() {
   debugger;
 
   // read user input
-  const input1 = prompt('Put some random text');
+  const input1 = prompt('Put random text to repeat');
   const str = String(input1);
-  const input2 = prompt (`Please confirm the ending` );
+  const input2 = prompt (`Please enter number to repeat ` );
   const num = Number(input2);
 
 
