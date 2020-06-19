@@ -157,25 +157,18 @@ __full user story description__
   
 
 ### HTML
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
+- [x] has been added previsouly  
+ 
 
 
 ### CSS
-- [] 
-- [] 
-- [] 
-- [] 
+- [x] styled buttons, added hover, nice nackground, buttons have been created by using flexboxes
+
 
 ### JS
 
-- [] 
-- [] 
-- [] 
-- [] 
+- [x] added fuctions and const values, set user alert 
+
   
 
 ## Finishing Touches
