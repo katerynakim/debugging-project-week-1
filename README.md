@@ -1,8 +1,8 @@
 Project in this module will be simple website with onclick attributes that call a handler function. User interactions will be handled with **prompt**, **confirm** and **alert**.
 
-the algorithm scripting challenges provide solutions and detailed explanations to the algorithm scripting challenges that are part of the JavaScript Algorithm.
+the algorithm scripting challenges provide solutions and detailed explanations to the algorithm scripting challenges that are part of the JavaScript Algorithm as we see below.
 
-# Confirm the ending of a string in JavaScript: 
+# Confirm the ending of a string  
 This is an interesting challenge. We’re going to be checking if an input string ends with a given target end .
 Algorithm:
 1. Determine the length of target.
