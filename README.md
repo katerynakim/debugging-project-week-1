@@ -16,7 +16,7 @@ function confirmEnding(str, ending) {
 
  ```
  --------
-# convert to fahrenheit
+# Convert to fahrenheit
 Converting a temperature from Celsius to Fahrenheit is a common calculation.The algorithm to convert from Celsius to Fahrenheit is the temperature in Celsius times 9/5, plus 32.
 ## Provided Test Cases
 * convertToF(0) should return a value of 32.
@@ -34,7 +34,7 @@ function convertToFahrenheit(C) {
 
  ``` 
 -----
-# convert to celsius
+# Convert to celsius
 Converting a temperature from fahrenheit to celsius is a common calculation as well.The algorithm to convert from Fahrenheit to Celsius is the temperature in fahrenheit - 32 multiply fahrenheit by 5/9.
 ## Provided Test Cases
 * convertToC(-22_) should return a value of -30.
