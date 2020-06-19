@@ -127,28 +127,19 @@ __full user story description__
 
 *assigned to Ismail*
 *reviewed by Kateryna*
+
+- developed on a branch called `intro`
   
 
 ### HTML
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
-
+- assigned class for "two middle buttons"
 
 ### CSS
-- [] 
-- [] 
-- [] 
-- [] 
+- styled buttons 
 
 ### JS
 
-- [] 
-- [] 
-- [] 
-- [] 
+- wrote the formula in Java.sc folder 
 
 ## 4. Two last buttons
 
