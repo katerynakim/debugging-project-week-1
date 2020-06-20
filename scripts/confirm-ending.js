@@ -80,8 +80,10 @@ function confirmEndingHandler() {
 
   // log for developers
   console.log('-- handled input --');
-  console.log('input', `(${typeof input})/n`, input);
-  console.log('c', `(${typeof c})/n`, c);
+  console.log('input1', `(${typeof input1})/n`, input1);
+  console.log('str', `(${typeof str})/n`, str);
+  console.log('input2', `(${typeof input2})/n`, input2);
+  console.log('ending', `(${typeof ending})/n`, ending);
   console.log('result', `(${typeof result})/n`, result);
 
 }
