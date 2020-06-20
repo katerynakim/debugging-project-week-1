@@ -79,5 +79,9 @@ function confirmEndingHandler() {
   alert(result);
 
   // log for developers
-  console.log(result);
+  console.log('-- handled input --');
+  console.log('input', `(${typeof input})/n`, input);
+  console.log('c', `(${typeof c})/n`, c);
+  console.log('result', `(${typeof result})/n`, result);
+
 }
