@@ -62,5 +62,9 @@ function convertToCelsiusHandler() {
 
   // log for developers
 
-  console.log(result);
+  console.log('-- handled input --');
+  console.log('input', `(${typeof input})/n`, input);
+  console.log('F', `(${typeof c})/n`, F);
+  console.log('result', `(${typeof result})/n`, result);
+
 }
