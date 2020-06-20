@@ -56,6 +56,5 @@ function findLongestWordLengthHandler() {
   console.log('sentence', `(${typeof sentence})/n`, sentence);
   console.log('str', `(${typeof str})/n`, str);
   console.log('result', `(${typeof result})/n`, result);
-}
 
 }
