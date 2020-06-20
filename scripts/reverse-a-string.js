@@ -63,6 +63,9 @@ function reverseStringHandler() {
   alert(`reverse string  is ${result} `);
 
   // log for developers
-  console.log(result);
+  console.log('-- handled input --');
+  console.log('input', `(${typeof input})/n`, input);
+  console.log('str', `(${typeof str})/n`, str);
+  console.log('result', `(${typeof result})/n`, result);
   
 }
